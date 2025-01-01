@@ -1,0 +1,15 @@
+name: random_forest
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - pip
+  - scikit-learn
+  - matplotlib
+  - plotly
+  - pillow
+  - mlflow
+  - seaborn
+  - pip:
+      - omegaconf

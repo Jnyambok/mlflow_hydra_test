@@ -1,0 +1,10 @@
+name: random_forest
+conda_env: conda.yaml
+entry_points:
+  main:
+    parameters:
+      model_config:
+        description: JSON blurb containing the configuration for the decision tree
+        type: str
+    command: >-
+      python run.py --model_config {model_config}

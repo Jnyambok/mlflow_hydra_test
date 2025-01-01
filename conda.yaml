@@ -1,0 +1,12 @@
+name: main_component
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - requests
+  - pip
+  - mlflow
+  - hydra-core
+  - pip:
+      - wandb
+      - hydra-joblib-launcher
