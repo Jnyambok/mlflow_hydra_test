@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/PROJECT%202025/mlflow_hydra/mlruns/0/97792bfe99b44bec8b168a41000ec62a/artifacts
+end_time: 1735904328485
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97792bfe99b44bec8b168a41000ec62a
+run_name: languid-foal-983
+run_uuid: 97792bfe99b44bec8b168a41000ec62a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735904313513
+status: 4
+tags: []
+user_id: hp

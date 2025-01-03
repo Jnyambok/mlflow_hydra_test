@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/PROJECT%202025/mlflow_hydra/mlruns/0/c6718a40e02f48bcae3a2b42a88129da/artifacts
+end_time: 1735907226645
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6718a40e02f48bcae3a2b42a88129da
+run_name: sneaky-shrew-469
+run_uuid: c6718a40e02f48bcae3a2b42a88129da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735907175479
+status: 4
+tags: []
+user_id: hp

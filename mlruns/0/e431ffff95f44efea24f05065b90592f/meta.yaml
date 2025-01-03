@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/PROJECT%202025/mlflow_hydra/mlruns/0/e431ffff95f44efea24f05065b90592f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e431ffff95f44efea24f05065b90592f
+run_name: indecisive-tern-871
+run_uuid: e431ffff95f44efea24f05065b90592f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735900625156
+status: 1
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/PROJECT%202025/mlflow_hydra/mlruns/0/8b8c60eb391f4d458693c315577c0172/artifacts
+end_time: 1735902543038
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b8c60eb391f4d458693c315577c0172
+run_name: sincere-eel-326
+run_uuid: 8b8c60eb391f4d458693c315577c0172
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735902528375
+status: 4
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/PROJECT%202025/mlflow_hydra/mlruns/0/bf0fed85e4bf4f4ba6089a69987a952a/artifacts
+end_time: 1735902991948
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf0fed85e4bf4f4ba6089a69987a952a
+run_name: capable-shrew-203
+run_uuid: bf0fed85e4bf4f4ba6089a69987a952a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735902976161
+status: 4
+tags: []
+user_id: hp

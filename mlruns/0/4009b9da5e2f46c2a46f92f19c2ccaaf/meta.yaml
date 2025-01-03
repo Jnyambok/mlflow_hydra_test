@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/PROJECT%202025/mlflow_hydra/mlruns/0/4009b9da5e2f46c2a46f92f19c2ccaaf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4009b9da5e2f46c2a46f92f19c2ccaaf
+run_name: delicate-slug-959
+run_uuid: 4009b9da5e2f46c2a46f92f19c2ccaaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735900242607
+status: 1
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/PROJECT%202025/mlflow_hydra/mlruns/0/5336505abc7e4e33a929e974bcfcc485/artifacts
+end_time: 1735903120800
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5336505abc7e4e33a929e974bcfcc485
+run_name: handsome-smelt-542
+run_uuid: 5336505abc7e4e33a929e974bcfcc485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735903106622
+status: 4
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/PROJECT%202025/mlflow_hydra/mlruns/0/aefa2f73a03e4b17991c0ff09da08c6e/artifacts
+end_time: 1735904060678
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aefa2f73a03e4b17991c0ff09da08c6e
+run_name: rambunctious-cod-996
+run_uuid: aefa2f73a03e4b17991c0ff09da08c6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735903238447
+status: 4
+tags: []
+user_id: hp

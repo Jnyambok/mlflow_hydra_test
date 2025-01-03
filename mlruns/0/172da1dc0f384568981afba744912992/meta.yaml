@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/PROJECT%202025/mlflow_hydra/mlruns/0/172da1dc0f384568981afba744912992/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 172da1dc0f384568981afba744912992
+run_name: worried-fowl-303
+run_uuid: 172da1dc0f384568981afba744912992
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735899938544
+status: 1
+tags: []
+user_id: hp

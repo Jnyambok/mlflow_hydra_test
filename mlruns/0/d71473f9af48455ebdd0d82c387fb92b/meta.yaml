@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/PROJECT%202025/mlflow_hydra/mlruns/0/d71473f9af48455ebdd0d82c387fb92b/artifacts
+end_time: 1735903045596
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d71473f9af48455ebdd0d82c387fb92b
+run_name: unequaled-stork-582
+run_uuid: d71473f9af48455ebdd0d82c387fb92b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735903032751
+status: 4
+tags: []
+user_id: hp

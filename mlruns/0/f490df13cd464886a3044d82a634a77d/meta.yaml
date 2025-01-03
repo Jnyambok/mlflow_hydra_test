@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/PROJECT%202025/mlflow_hydra/mlruns/0/f490df13cd464886a3044d82a634a77d/artifacts
+end_time: 1735905911149
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f490df13cd464886a3044d82a634a77d
+run_name: tasteful-turtle-975
+run_uuid: f490df13cd464886a3044d82a634a77d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735905876573
+status: 4
+tags: []
+user_id: hp

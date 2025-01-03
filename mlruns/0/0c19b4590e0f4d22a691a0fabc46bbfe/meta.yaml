@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/PROJECT%202025/mlflow_hydra/mlruns/0/0c19b4590e0f4d22a691a0fabc46bbfe/artifacts
+end_time: 1735904058432
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c19b4590e0f4d22a691a0fabc46bbfe
+run_name: capricious-bug-281
+run_uuid: 0c19b4590e0f4d22a691a0fabc46bbfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735903263149
+status: 4
+tags: []
+user_id: hp

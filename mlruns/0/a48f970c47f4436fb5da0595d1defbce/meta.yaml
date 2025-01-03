@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/PROJECT%202025/mlflow_hydra/mlruns/0/a48f970c47f4436fb5da0595d1defbce/artifacts
+end_time: 1735906785162
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a48f970c47f4436fb5da0595d1defbce
+run_name: salty-wren-166
+run_uuid: a48f970c47f4436fb5da0595d1defbce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735906756338
+status: 4
+tags: []
+user_id: hp

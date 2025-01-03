@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/PROJECT%202025/mlflow_hydra/mlruns/0/21ed59086b9e44d7ac6d585a83f811dc/artifacts
+end_time: 1735907224029
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21ed59086b9e44d7ac6d585a83f811dc
+run_name: omniscient-frog-729
+run_uuid: 21ed59086b9e44d7ac6d585a83f811dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735907209478
+status: 4
+tags: []
+user_id: hp

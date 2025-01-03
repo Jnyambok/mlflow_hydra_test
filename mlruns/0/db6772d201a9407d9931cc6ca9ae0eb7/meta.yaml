@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/PROJECT%202025/mlflow_hydra/mlruns/0/db6772d201a9407d9931cc6ca9ae0eb7/artifacts
+end_time: 1735902616676
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db6772d201a9407d9931cc6ca9ae0eb7
+run_name: capable-owl-810
+run_uuid: db6772d201a9407d9931cc6ca9ae0eb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735902603962
+status: 4
+tags: []
+user_id: hp

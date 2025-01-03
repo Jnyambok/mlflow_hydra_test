@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/PROJECT%202025/mlflow_hydra/mlruns/0/d94cd6373b194d4f8da3e52845e5dfc0/artifacts
+end_time: 1735902072644
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d94cd6373b194d4f8da3e52845e5dfc0
+run_name: gifted-dog-414
+run_uuid: d94cd6373b194d4f8da3e52845e5dfc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735902055448
+status: 4
+tags: []
+user_id: hp

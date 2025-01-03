@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/PROJECT%202025/mlflow_hydra/mlruns/0/d2aaa947d0fb44c6825f1cd4bf6681e6/artifacts
+end_time: 1735904259586
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2aaa947d0fb44c6825f1cd4bf6681e6
+run_name: gifted-donkey-214
+run_uuid: d2aaa947d0fb44c6825f1cd4bf6681e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735904244476
+status: 4
+tags: []
+user_id: hp

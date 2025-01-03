@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/PROJECT%202025/mlflow_hydra/mlruns/0/44a500f37a474970acfad190af76e710/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44a500f37a474970acfad190af76e710
+run_name: handsome-worm-534
+run_uuid: 44a500f37a474970acfad190af76e710
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735901034998
+status: 1
+tags: []
+user_id: hp

@@ -1,6 +1,7 @@
+_version_: 1
 random_forest:
   n_estimators: 100
-  criterion: "gini"
+  criterion: gini
   max_depth: null
   min_samples_split: 2
   min_samples_leaf: 1
